@@ -1,0 +1,36 @@
+/* Enter Your Custom CSS Here */ .portfolio-holder .thumb .hover-state .info p {
+    font-size: 12px;
+}
+
+@media screen and (max-width: 480px) {
+    .portfolio-holder {
+        width: 50% !important;
+    }
+  .portfolio-holder {
+        display: block;
+  margin-left: auto;
+  margin-right: auto;
+    }
+}
+/*
+     FILE ARCHIVED ON 23:09:15 Feb 02, 2023 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:55:15 Mar 04, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  capture_cache.get: 1.168
+  captures_list: 0.907
+  exclusion.robots: 0.039
+  exclusion.robots.policy: 0.024
+  esindex: 0.013
+  cdx.remote: 14.258
+  LoadShardBlock: 280.913 (3)
+  PetaboxLoader3.datanode: 418.988 (5)
+  load_resource: 499.205
+  PetaboxLoader3.resolve: 311.336
+  loaddict: 130.394
+*/
